@@ -33,3 +33,36 @@ function ready() {
 
     document.getElementsByClassName('finish-buying')[0].addEventListener('click', purchaseClicked)
 }
+
+function purchaseClicked() {
+    alert('Thank you for your purchase')
+    var cartItems = document.getElementsByClassName('cart-items')[0]
+    while (cartItems.hasChildNodes()) {
+        cartItems.removeChild(cartItems.firstChild)
+    }
+    updateCartTotal()
+}
+
+function removeCartItem(event) {
+    var buttonClicked = event.target
+    buttonClicked.parentElement.parentElement.remove()
+    updateCartTotal()
+}
+
+function quantityChanged (event) {
+    var input = event.target
+    if (isNaN(input.value) || input.value <= 0) {
+        input.value = 1
+    }
+    updateCartTotal()
+}
+
+function addToCartClicked (event) {
+    var button = event.target
+    var shopItem = button.parentElement.parentElement
+    var title = shopItem.getElementsByClassName('book-title')[0].innerText
+    var price = shopItem.getElementsByClassName('book-price')[0].innerText
+    var imageSrc = shopItem.getElementsByClassName('book-image')[0].src
+    addItemToCart(title, price, imageSrc)
+    updateCartTotal()
+}
