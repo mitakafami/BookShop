@@ -1,8 +1,4 @@
 .img {
-    margin: 20px;
-    width: 80%;   height: 85%;
-
-.div {
     display: flex;
     max-width: 600px;
     border: 3px solid rgb(177, 168, 168);
