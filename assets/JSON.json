@@ -1,69 +1,69 @@
 [{
   "author": "Andrzej Sapkowski",
   "imageLink": " ",
-  "title": "The Last Wish",
+  "title": "./assets/image/1.png",
   "price":  30,
   "description": "The collection contains seven short stories interspersed with a continuing frame story: Geralt of Rivia, after having been injured in battle, rests in a temple. During that time he has flashbacks to recent events in his life, with each flashback forming a short story."
 },
   {
   "author": "Andrzej Sapkowski",
-  "imageLink": " ",
+  "imageLink": "./assets/image/2.jpg",
   "title": "Sword of Destiny",
   "price":  25,
   "description": "The anthology consists of 6 stories, loosely linked in a chronology. The short stories in this collection take place before the events of the novels and introduce characters that become major players in the novels. The titular story, The Sword of Destiny, is the first to introduce the character of Ciri. The following story, Something More, which also features Ciri, is a direct prequel to the Witcher Saga, describing events that take place shortly before those in the Saga (such as the fall of the Kingdom of Cintra)."
   },
   {
   "author": "Andrzej Sapkowski",
-  "imageLink": " ",
+  "imageLink": "./assets/image/3.jpg",
   "title": "Blood of Elves",
   "price":  27,
   "description": "About a year before the beginning of the novel (as chronicled in the preceding short story "Much More"), the Empire of Nilfgaard attacks the Kingdom of Cintra. Queen Calanthe, mortally wounded, commits suicide and her granddaughter, Cirilla, called Ciri and nicknamed the "Lion Cub of Cintra" manages to flee from the burning capital city. Emhyr var Emreis, Emperor of Nilfgaard, sends his spies to find her, as, in addition to her royal lineage, Ciri has elven blood which gives her immense magical potential. The war ends with Nilfgaard's defeat by a coalition of the Northern Kingdoms, though the Empire retains much of its power."
   },
   {
   "author": "Andrzej Sapkowski",
-  "imageLink": " ",
+  "imageLink": "./assets/image/4.jpg",
   "title": "Time of Contempt",
   "price":  27,
   "description": "Following their secret conclave (in Blood of Elves), the monarchs of the Northern Kingdoms are secretly preparing to create a pretext for war with Nilfgaard, not knowing that the Emperor of Nilfgaard is aware of their plans and preparing his own."
   },
   {
   "author": "Andrzej Sapkowski",
-  "imageLink": " ",
+  "imageLink": "./assets/image/5.png",
   "title": "Baptism of Fire",
   "price":  36,
   "description": "In the aftermath of the Thanedd incident, war is still raging between Nilfgaard and the Northern Kingdoms. The elf sorceress Francesca Findabair has been installed by Nilfgaardian Emperor Emhyr as client queen of Dol Blathanna. In exchange for her throne, however, she is obliged to withhold aid from the elven Scoia'tael commandos, who supported Nilfgaard's initial advance into the North, but now find themselves alone and unsupported as the Northern Kingdoms retaliate."
   },
   {
   "author": "Andrzej Sapkowski",
-  "imageLink": " ",
+  "imageLink": "./assets/image/6.jpg",
   "title": "The Tower of the Swallow",
   "price":  15,
   "description": " "
   },
   {
   "author": "Andrzej Sapkowski",
-  "imageLink": " ",
+  "imageLink": "./assets/image/7.jpg",
   "title": "The Lady of the Lake",
   "price":  23,
   "description": "Vysogota, an elderly philosopher living alone in the Pereplut swamp, comes upon an injured Ciri near his retreat and takes her in, caring for her until she is ready to continue her journey. During her recovery, Ciri recounts the events of the last few months."
   },
   {
    "author": "Andrzej Sapkowski",
-  "imageLink": " ",
+  "imageLink": "./assets/image/8.jpg",
   "title": "Season of Storms",
   "price":  25,
   "description": "Geralt of Rivia fights a dangerous monster whose only goal in life is to kill people. Shortly afterwards, he is arrested, resulting in the loss of two of his priceless witcher swords. With a little help from his friend Dandelion and his connections, he does everything he can to get his work tools back."
   },
   {
   "author": "Cormac McCarthy",
-  "imageLink": " ",
+  "imageLink": "./assets/image/9.jpg",
   "title": "Blood Meridian",
   "price":  20,
   "description": "The novel tells the story of a teenage runaway referred to only as "the kid", who was born in Tennessee during the famously active Leonids meteor shower of 1833. He first meets the enormous, pale, hairless Judge Holden at a religious revival in a tent in Nacogdoches, Texas, at which Holden falsely accuses the preacher of raping children and goats, inciting the audience to attack him."
   },
   {
   "author": "Gene Wolfe",
-  "imageLink": " ",
+  "imageLink": "./assets/image/10.jpg",
   "title": "The Book of the New Sun",
   "price":  20,
   "description": "The tetralogy chronicles the journey of Severian, a journeyman torturer who is disgraced and forced to wander. It is a first-person narrative, ostensibly translated by Wolfe into contemporary English, set in a distant future when the Sun has dimmed and Earth is cooler (a "Dying Earth" story). Severian lives in a nation called the Commonwealth, ruled by the Autarch, in the Southern Hemisphere. It is at war with Ascia, its totalitarian northern neighbor, which is controlled by mountain-sized beings in the oceans who wish to enslave humanity."
