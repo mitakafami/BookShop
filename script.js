@@ -34,7 +34,6 @@ fetch('../assets/JSON.json')
       bookWrapper.appendChild(description);
     });
   });
-        });
 
 if (document.readyState == 'loading') {
     document.addEventListener('DOMContentLoaded', ready)
