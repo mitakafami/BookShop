@@ -1,6 +1,7 @@
 .img {
     display: flex;
     max-width: 600px;
+    height: auto;
     border: 3px solid rgb(177, 168, 168);
     border-radius: 10px;
     margin: 50px 15%;
