@@ -2,7 +2,7 @@ const container = document.createElement('div');
 container.classList.add('container');
 document.getElementsByTagName('body')[0].prepend(container);
 
-fetch('../assets/JSON.json')
+fetch('./assets/JSON.json')
         .then(response => {
             return response.json();
         })
