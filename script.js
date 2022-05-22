@@ -15,6 +15,8 @@ fetch('./assets/JSON.json')
 
       const img = document.createElement('img');
       img.src = element.imageLink;
+      img.id = "img";
+      img.className = "img"
       bookWrapper.appendChild(img);
 
       const author = document.createElement('p');
