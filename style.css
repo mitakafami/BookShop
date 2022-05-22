@@ -1,3 +1,11 @@
 .img {
     margin: 20px;
     width: 80%;   height: 85%;
+
+.Book-wrap{
+    display: flex;
+    max-width: 600px;
+    border: 3px solid rgb(177, 168, 168);
+    border-radius: 10px;
+    margin: 50px 15%;
+    background-color: antiquewhite;
