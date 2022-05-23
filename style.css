@@ -1,7 +1,91 @@
-.img {
+.book-image{
+    margin: 20px;
+    width: 80%;   height: 85%;
+    background-color:rgb(150, 95, 95);
+    border: 2px solid rgb(143, 87, 87);
+    border-radius: 50px;
+    opacity: 1;
+    display: inline-block;
+}
+
+.Container-book{
     display: flex;
     max-width: 600px;
-    height: auto;
-    border: 3px solid #6666FF;
+    border: 2px solid rgb(151, 65, 87);
     border-radius: 10px;
-    margin: 50px 15%;
+    margin: 40px 15%;
+    background-color: rgb(255, 112, 112);
+}
+.left-side {
+    width: 600px;
+}
+.right-side{
+    width: 600px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border-left: 3px solid rgb(177, 94, 94);;
+    
+}
+.book-title{
+    padding-top: 15%;
+    padding-bottom: 15%;
+    font-size: 20px;
+    font-family: 'Roboto', Monospace;
+    color: rgb(255, 255, 255);
+    text-shadow: 2px 2px #000000
+}
+.h3{
+    padding-top: 1%;
+    padding-bottom: 5%;
+    font-size: 25px;
+    font-family: 'Roboto', Monospace;
+    color: rgb(255, 255, 255);
+    text-shadow: 2px 2px #000000
+}
+.h4{
+    font-size: 20px;
+    font-family: 'Roboto', Monospace;
+    margin-bottom: 20px;
+    color: rgb(255, 255, 255);
+    text-shadow: 2px 2px #000000
+    
+}
+
+.buttonDiv {
+    margin-top: 150px;
+}
+
+.show-more {
+    border-color:#000000;
+    color: #000000;
+    width:100px;
+    height: 30px;
+    border-radius: 5px;
+    margin-right: 20px;
+    background-color: #FFFFFF;
+    cursor: pointer;
+    font-size:15px;
+}
+
+.show-more:hover {
+    background-color: #286ea7;
+    color: #FFFFFF;
+
+}
+
+.add-to-cart {
+    border-color:#000000;
+    width: 100px;
+    height: 30px;
+    color: #007bff;
+    border-radius: 5px;
+    background-color: #FFFFFF;
+    cursor: pointer;
+    font-size: 15px;
+}
+
+.add-to-cart:hover {
+    background-color: #286ea7;
+    color: #FFFFFF;
+}
